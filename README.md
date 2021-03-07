@@ -9,7 +9,7 @@
 
 ### Currently working on:
 [Schoolwork Tracker](https://github.com/elguapogordo/schoolwork_tracker), an app that will track students' progress through multiple subjects.
-- designed to have a visual `how far ahead/behind are you` for my kids while doing school at home, but could have other implications
+- designed to have a visual `how far ahead/behind are you` for my kids while doing school at home, but could have other applications
 - will have some 'just because' database queries on the show pages because I need more ActiveRecord and SQL practice
 - MySQL database (installed with much frustration because I repeated the same mistake I made with PostgreSQL)
 - will eventually be deployed, may use CI/CD at some point
