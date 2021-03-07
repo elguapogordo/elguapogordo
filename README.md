@@ -1,16 +1,18 @@
-### Hi there 👋
+## Learn. Help People. Enjoy Life.
+(my main three things)
+### About me:
+- AF Ord veteran
+- curious
+- goofy
+- dark mode
+- pirate mode
 
-<!--
-**elguapogordo/elguapogordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on:
+[Schoolwork Tracker](https://github.com/elguapogordo/schoolwork_tracker), an app that will track students' progress through multiple subjects.
+- designed to have a visual `how far ahead/behind are you` for my kids while doing school at home, but could have other implications
+- will have some 'just because' database queries on the show pages because I need more ActiveRecord and SQL practice
+- MySQL database (installed with much frustration because I repeated the same mistake I made with PostgreSQL)
+- will eventually be deployed, may use CI/CD at some point
+- using feature branches with commits and comments
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if anyone looks at the code, comments, or git practices and has any comments or suggestions, feel free to contact me!
